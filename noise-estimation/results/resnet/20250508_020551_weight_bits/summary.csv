@@ -1,0 +1,6 @@
+input_bits,weight_bits,weight_value_noise,weight_physical_noise,differential_weight,weight_slice_lsb_to_msb,adc_noise,first_layer_snr_db,last_layer_snr_db
+,6,,,True,,,20.134533379584866,-11.04208810372083
+,8,,,True,,,30.736257776753597,0.805393589132079
+,10,,,True,,,43.05528202287462,12.947137526624054
+,12,,,True,,,54.270555165276335,24.988900442496007
+,14,,,True,,,67.6569239188085,36.97293381212851
